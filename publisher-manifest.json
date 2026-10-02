@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2ab97b38f60d914438454c7b",
+  "owner": "qe8uaxxpf",
+  "repo": "page-2406aa3e446af98c33f32a27",
+  "title": "鸡哥(iKuuuu)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2406aa3e446af98c33f32a27",
+      "a": "鸡哥(iKuuuu)",
+      "b": "",
+      "entity": "鸡哥(iKuuuu)",
+      "brand": "鸡哥(iKuuuu)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1a9d10b9d80d42ac4ddfc56699b78ae16e2c2a8cb745dd5d5f987455d3a53a99",
+      "content": {
+        "keyword1": "鸡哥(iKuuuu)",
+        "keyword2": "",
+        "primary_entity": "鸡哥(iKuuuu)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "鸡哥(iKuuuu)提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体与游戏加速，欢迎访问官网获取套餐说明与操作指引。",
+          "AI_DESCRIPTION": "鸡哥(iKuuuu)提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体与游戏加速，欢迎访问官网获取套餐说明与操作指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e2e8f0;line-height:1.7;font-size:16px;overflow-x:hidden}a{color:#22d3ee;text-decoration:none}header{background:#0a192f;border-bottom:1px solid #155e75;padding:0.85rem 1rem}header nav{display:flex;flex-wrap:wrap;gap:0.65rem 1rem;justify-content:center;max-width:960px;margin:0 auto}header nav a{color:#67e8f9;font-size:0.95rem}.hero{padding:4.5rem 1.25rem 3.5rem;text-align:center}h1{font-size:2.05rem;color:#ffffff;font-weight:700;letter-spacing:0.04em;margin:0 auto 1.25rem;max-width:18em;line-height:1.35}.lead{max-width:34em;margin:0 auto;color:#94a3b8;font-size:1.05rem}main{display:block}section{padding:2.2rem 1.25rem;max-width:920px;margin:0 auto}h2{color:#22d3ee;font-size:1.45rem;margin:0 0 1rem;padding-bottom:0.45rem;border-bottom:2px solid #164e63}h3{color:#67e8f9;font-size:1.12rem;margin:1.15rem 0 0.4rem}p,li{color:#cbd5e1}ul{padding-left:1.2em;margin:0.4rem 0 0.8rem}.plans{display:flex;flex-direction:column;gap:1rem}.plan{background:#0f2744;border:1px solid #1e3a5f;border-radius:10px;padding:1.15rem 1.2rem}.plan.featured{border-color:#22d3ee}.badge{display:inline-block;background:#155e75;color:#ecfeff;font-size:0.75rem;padding:0.15rem 0.5rem;border-radius:999px;margin-bottom:0.4rem}.price{font-size:1.35rem;color:#ffffff;font-weight:700;margin:0.2rem 0}.annual{font-size:0.9rem;color:#94a3b8;margin-bottom:0.6rem}.clients-grid{display:flex;flex-direction:column;gap:0.75rem}.client-card{background:#0f2744;border:1px solid #1e3a5f;border-radius:8px;padding:0.9rem 1rem}ol{padding-left:1.25em;margin:0.4rem 0}details{background:#0f2744;border:1px solid #1e3a5f;border-radius:8px;padding:0.35rem 1rem;margin-bottom:0.7rem}summary{color:#e0f2fe;font-weight:600;padding:0.55rem 0}details p{color:#94a3b8;padding:0 0 0.7rem}footer{background:#050d18;color:#64748b;padding:2rem 1.25rem 2.4rem;font-size:0.9rem}footer h2{font-size:1.05rem;color:#67e8f9;border:none;padding:0;margin:0 0 0.5rem}.foot-block{max-width:920px;margin:0 auto 1.4rem}.foot-links{display:flex;flex-wrap:wrap;gap:0.4rem 0.9rem}.ads{border:1px dashed #155e75;border-radius:8px;padding:0.85rem 1rem;color:#94a3b8}@media (min-width:720px){h1{font-size:2.7rem}.hero{padding:5.5rem 2rem 4.2rem}.plans{display:grid;grid-template-columns:1fr 1fr 1fr}.clients-grid{display:grid;grid-template-columns:1fr 1fr}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main><div class=\"hero\"><h1>鸡哥(iKuuuu)</h1><p class=\"lead\">鸡哥(iKuuuu)官方网站介绍机场订阅、VPN 网络加速与多端客户端下载。深色留白呈现品牌主视觉，便于对照套餐与配置步骤后完成官方下载与节点接入。</p></div><section id=\"intro\"><h2>品牌简介</h2><p>鸡哥(iKuuuu)面向需要稳定跨境访问的个人与团队，提供可订阅的加速线路与清晰的客户端指引。服务覆盖网页浏览、流媒体、远程协作与游戏加速，强调节点可用性、设备配额与规则分流，而不是含糊的速度口号。</p><p>作为信息展示型官网页面，这里集中说明套餐差异、推荐客户端以及导入订阅的步骤。购买与续费请以用户中心实际开通结果为准；本页帮助你在安装前确认流量、设备数与解锁范围，减少试错成本。</p><p>线路侧采用普通节点池与专线优化搭配：基础需求走常规优质线路，游戏与高峰时段可选用 IPLC 类优化节点。官方身份以品牌名鸡哥(iKuuuu)标识，下载与订阅请认准官网说明，避免来路不明的安装包与假冒链接。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与协作</h3><p>访问海外文档、代码托管、会议与云盘时，通过分流规则让国内站点直连、跨境工具走代理，降低卡顿与证书报错。</p><h3>流媒体与内容解锁</h3><p>按套餐等级解锁基础或原生流媒体。旗舰与团队线路更适合长时间播放，减少地区限制提示。</p><h3>游戏与实时对战</h3><p>旗舰版提供 IPLC 专线游戏加速优化，适合对延迟敏感的对战与更新下载，建议固定设备数量以免挤占会话。</p><h3>学术与资料检索</h3><p>检索论文、标准与开源镜像时保持长连接，配合规则避免国内学术站点被误代理。</p><h3>多设备出行</h3><p>手机、电脑与平板同时在线时，按套餐设备上限分配。团队版适合工作室共用订阅与定制路由。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>价格按自然月计费，年付可锁定全年流量配额。流量为极速节点用量，用尽后需等待重置或升级。以下为官网展示档位。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>鸡哥(iKuuuu)以订阅链接对接主流代理客户端，不绑定单一闭源 App。请先确认系统，再按名称在官网下载中心、系统应用商店或开发者站点获取安装包。本页强调客户端选择：同一订阅可在多端使用，但同时在线数受套餐限制。</p><div class=\"clients-grid\"><div class=\"client-card\"><h3>Windows</h3><p>常用 Clash Verge、Clash Meta、v2rayN。安装后选择 Clash / V2Ray 订阅导入，开启系统代理或 TUN。官网下载时认准发布页校验信息。</p></div><div class=\"client-card\"><h3>macOS</h3><p>常用 Clash Verge、ClashX Meta、Surge。权限中需允许网络扩展。订阅更新后检查规则集是否含国内直连。</p></div><div class=\"client-card\"><h3>Android</h3><p>常用 Clash Meta for Android、Surfboard。建议关闭省电限制以免掉线。APK 仅从官方下载或应用商店获取。</p></div><div class=\"client-card\"><h3>iOS 与平板</h3><p>常用 Shadowrocket、Stash、Quantumult X。应用需自行准备商店账号。导入订阅后开启代理与分流。</p></div><div class=\"client-card\"><h3>Linux 与路由器</h3><p>可使用 clash / mihomo 内核或兼容面板。团队版适合在网关统一分流，注意不要超出设备会话上限。</p></div></div><p>官方下载入口集中在用户中心与本页客户端说明。若安装包来源无法核对，请停止安装并回到鸡哥(iKuuuu)官网对照名称。订阅地址属于账号凭证，不要公开粘贴。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>获取订阅</h3><ol><li>在官网完成套餐开通，进入用户中心。</li><li>复制 Clash 或通用订阅链接，按需选择节点过滤。</li><li>不要在社交平台发送完整链接。</li></ol><h3>导入客户端</h3><ol><li>打开已安装的客户端，选择“从 URL 导入”或“添加订阅”。</li><li>粘贴链接并更新，确认出现节点列表。</li><li>选择靠近目标站点的节点，优先延迟低且负载正常的线路。</li></ol><h3>连接与分流</h3><ol><li>开启系统代理或 TUN / 增强模式，保证 UDP 需要的应用可用。</li><li>规则建议：国内域名直连，国外走代理，广告与追踪可按客户端能力拦截。</li><li>流媒体请选用标注解锁的节点；游戏请选用 IPLC 或低抖动线路。</li></ol><h3>日常维护</h3><p>流量将尽时减少大文件下载或升级套餐。节点异常时先更新订阅再切换。设备更换后在用户中心解绑闲置会话，以免占满在线名额。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>鸡哥(iKuuuu)是什么服务？</summary><p>鸡哥(iKuuuu)是机场订阅与网络加速品牌，通过可更新的节点列表帮助用户访问跨境资源。它不是浏览器插件式临时通道，而是配合 Clash 等客户端长期使用的加速方案。</p></details><details><summary>如何进行客户端下载才算官方？</summary><p>先在本页确认软件名称与系统，再到应用商店、开发者发布页或鸡哥(iKuuuu)官网下载说明中获取。不要使用来历不明的打包文件，也不要相信第三方“破解客户端”。</p></details><details><summary>订阅导入失败怎么办？</summary><p>检查链接是否完整、是否含多余空格，确认客户端类型与订阅格式匹配。更新失败时可更换网络后再试，或在用户中心重新生成订阅。防火墙拦截本地核心时需允许程序联网。</p></details><details><summary>各套餐设备数量如何理解？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。同一账号在多部手机与电脑登录会占用配额。超出后新设备可能无法连接，需要下线闲置终端。</p></details><details><summary>能否稳定观看海外流媒体？</summary><p>基础版提供基础解锁，适合轻度使用。旗舰版与团队版强调全节点原生流媒体解锁，播放前请选择对应解锁节点并关闭可能暴露地区的 WebRTC。</p></details><details><summary>游戏加速是否必须选旗舰版？</summary><p>普通线路也能降低部分延迟，但对战与高峰时段更建议旗舰版的 IPLC 专线游戏加速优化。团队版另有高带宽 VIP 节点，适合同时下载与开黑。</p></details><details><summary>流量用完或需要发票如何处理？</summary><p>月度流量用尽后等待重置或升级档位。团队版提供专属客户经理，可沟通定制路由与对公需求。具体结算与发票以开通时的订单说明为准。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot-block\" id=\"sitemap\"><h2>网站地图</h2><nav class=\"foot-links\" aria-label=\"sitemap\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#\">官网首页</a><a href=\"#\">官方下载</a></nav></div><div class=\"foot-block\"><h2>广告合作</h2><p class=\"ads\">广告位：欢迎工具、主机与开发者服务互换文字展示。合作请通过鸡哥(iKuuuu)官网联系渠道沟通，本页仅作招商说明，不放置外部跟踪脚本。</p></div><div class=\"foot-block\"><h2>友情链接</h2><nav class=\"foot-links\"><a href=\"#\">客户端教程汇总</a><a href=\"#\">节点延迟参考</a><a href=\"#\">规则集说明</a><a href=\"#\">团队采购指引</a><a href=\"#\">官网公告</a></nav></div><p>鸡哥(iKuuuu) 官方网站信息页 · 网络加速与机场订阅说明 · 版权所有</p></footer>",
+          "hash": "c810d6c54cc132eb4bf8e4c9a1f5eae431f1149fcee9c848764f82a85f858989",
+          "seo": {
+            "title": "鸡哥(iKuuuu)官网 | 机场订阅与VPN加速器客户端下载",
+            "keywords": "鸡哥,iKuuuu,鸡哥机场,iKuuuu VPN,梯子,网络加速,加速器,客户端下载,官网,官方下载,机场订阅,Clash",
+            "description": "鸡哥(iKuuuu)提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体与游戏加速，欢迎访问官网获取套餐说明与操作指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qsjxx.cn",
+    "host": "p-f35a9d7ea5.qsjxx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "qsjxx.cn",
+      "url": "https://qsjxx.cn/",
+      "label": "已跑路(AAEX)",
+      "apex": "qsjxx.cn",
+      "kind": null,
+      "identity": "versnjptrd/page-297375797bd3af5d57b62e64"
+    },
+    {
+      "host": "baizs.cn",
+      "url": "https://baizs.cn/",
+      "label": "鸡哥(iKuuuu)",
+      "apex": "baizs.cn",
+      "kind": null,
+      "identity": "yrfcwhsgng/page-475cd8a84f71c825947c2c62"
+    },
+    {
+      "host": "bbszs.cn",
+      "url": "https://bbszs.cn/",
+      "label": "鸡哥(iKuuuu)",
+      "apex": "bbszs.cn",
+      "kind": null,
+      "identity": "nqbpeguetu/page-7c0d308c5c1220183610a3b3"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "071fdfdef3b3d089be6e2869395085e4240bb0fbd3b09f0ae63bed9f7b08392a",
+    "sitemap.xml": "ad14a77a06303c4f71f6776f6b1eac57c52956903ce99b77f8ef9aa8a3171074",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a8db587365e13ced05bb1c569325fe5bab0f66cfb83039210f2c71cbf60e4876",
+    "robots.txt": "e2fb7c0fa2fcefa54082b0eee5d6f77804ffb5fd5524f7d08fcdd244bb49ccf1",
+    "a467da821ef4f948d4b6427e01f3fa98.txt": "1f06f5a1147b4e9ad105fe1e7cc90f03ed748bf99b282c74c01e4fff5d2007dd"
+  },
+  "revision": "b857f1890b6faa2caac95edc5afded50352abf2f7455661837ad3c2b4764db08"
+}
